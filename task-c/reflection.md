@@ -21,7 +21,7 @@ Consider: What patterns did you observe in the SMAP data? How might those patter
 
 **Your response (75–100 words):**
 
-> _Replace this text with your answer._
+Hands-on data exploration helped me understand how important it is to examine data before building a model. In Task A, I explored 500 SMAP observations with 27 variables. I found 24 anomalies (4.8% of the observations) and no missing values. This showed me that unusual patterns can exist even in a dataset without missing data. For an autoencoder-based anomaly detector, understanding normal patterns and unusual observations is important. Exploring the data first could help identify meaningful anomalies and reduce the chance of treating normal variation as an anomaly.
 
 ---
 
@@ -33,7 +33,7 @@ Be honest. There are no wrong answers — this helps us plan the onboarding sche
 
 **Your response (75–100 words):**
 
-> _Replace this text with your answer._
+I feel more comfortable using Python and pandas to inspect datasets, group values, and create visualizations after completing these tasks. However, I still need more practice with statistics, especially interpreting distributions, variability, and anomaly detection results. My machine learning background is also limited, and I want to better understand how autoencoders learn patterns and identify unusual data. If I join the research group, I plan to review Python and statistics, practice with small datasets, and study the basics of neural networks and autoencoders. I would also ask questions and use feedback from the research team to strengthen my understanding.
 
 ---
 
